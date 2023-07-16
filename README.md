@@ -4,4 +4,5 @@
 [use desktop for best viewing experience]
 [super responsive - desktop + mobile]
 ```
-<!-- Dribble Link https://dribbble.com/shots/20683741-Mecha-Web-Site-Design-Landing-Page-Home-Page-UI -->
+<!-- Dribble Link  -->
+[Inspiration](https://dribbble.com/shots/20683741-Mecha-Web-Site-Design-Landing-Page-Home-Page-UI)
